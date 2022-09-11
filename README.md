@@ -24,16 +24,14 @@ Here are some ideas to get you started:
 </p>
 
 
-- 📚 I’m currently learning React, Javascript, Nodejs and Firebase.
-- 🥅 2022 Goals: Master DSA concepts
-- ⚡ Fun fact I am a Gym Freak
+- 📚 I’m currently learning React, Javascript, Nodejs and MongoDB.
+- 🥅 2022 Goals: Learn new concepts to my best.
+- ⚡ I love to dance.
 
 ---
 #### connect with me
-
-<a href="https://twitter.com/pushpak696" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="40"/></a>
-<a href="https://www.linkedin.com/in/pushpakkumar-bh-4555a11b0/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/pushpakkumar_bh/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/feed/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/laksh__26/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30" width="40" /></a>
 
 <br>
 
@@ -61,9 +59,9 @@ Here are some ideas to get you started:
 ---
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Laksh262001&show_icons=true&locale=en&layout=compact" alt="PushpakkumarBH" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Laksh262001&show_icons=true&locale=en&layout=compact" alt="Laksh262001" />
 </p>
 
 <p>
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Laksh262001&show_icons=true&locale=en" alt="PudhpskkumarBH" >
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Laksh262001&show_icons=true&locale=en" alt="Laksh262001" >
 </p>
