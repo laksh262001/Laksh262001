@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 </p>
 
 
-- 📚 I’m currently learning React, Javascript, Nodejs and MongoDB.
-- 🥅 2022 Goals: Learn new concepts to my best.
+- 📚 I’m currently learning AWS CloudPractioner, Linux, Nodejs and MongoDB.
+- 🥅 2023 Goals: Learn new concepts to my best.
 - ⚡ I love to dance.
 
 ---
